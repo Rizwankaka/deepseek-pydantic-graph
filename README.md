@@ -1,4 +1,4 @@
-```markdown
+
 # Multi-Agent Product Decision Graph with PydanticAI and DeepSeek R1
 
 ## Overview
@@ -96,7 +96,7 @@ The agents debate whether this basketball is worth purchasing, analyze the argum
 ### Install Required Libraries:
 ```bash
 pip install pydantic-ai tavily beautifulsoup4 colorama
-```
+
 
 ### Ollama Setup:
 1. Install Ollama: [Ollama Installation Guide](https://github.com/ollama/ollama)
