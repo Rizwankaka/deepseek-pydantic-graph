@@ -4,9 +4,6 @@
 ## Overview
 This project demonstrates an implementation of a multi-agent graph using the PydanticAI framework. The setup includes several interconnected agents and tools working together to simulate a product buy/skip debate. The final decision is made by leveraging the DeepSeek R1 reasoning model. While this reasoning model does not support function calling and structured outputs, this example demonstrates ways of overcoming these limitations by using creative workflows.
 
-## Looking for Collaborators
-Have an idea for an article, video tutorial, a learning project, or anything related to AI? Consider collaborating with our growing community of collaborators. Get started today by posting your idea on our [Discord server](discord_link). Together, we are building a strong community of AI Software Developers.
-
 ## About PydanticAI
 PydanticAI is a Python-based framework designed to simplify the development of AI agents. It builds upon the strengths of Pydantic—a data validation library—and extends its functionality to streamline the creation of intelligent systems. Key features include:
 
